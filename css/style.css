@@ -1,3 +1,7 @@
+.information{
+    text-align: justify;
+    margin-left: 350px;
+}
 .container{
     background-image: url("/img/pattern.png");
     width: 1125px;
@@ -8,9 +12,6 @@ h3{
     color: grey;
 }
 
-.information{
-    
-}
 
 span{
     background-color: yellow;
