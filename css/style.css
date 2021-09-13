@@ -1,5 +1,17 @@
-header{
-   background-image: url(/img/pattern.png);
-   height: 200px;
+.container{
+    background-image: url("/img/pattern.png");
+    width: 1125px;
+    margin: auto;
+}
 
+h3{
+    color: grey;
+}
+
+.information{
+    
+}
+
+span{
+    background-color: yellow;
 }
